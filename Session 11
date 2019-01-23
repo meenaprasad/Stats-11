@@ -1,0 +1,260 @@
+Session 11: Additional Exercise
+
+The marks awarded for an assignment set for a Year 8 class of 20 students were as follows:
+6 7 5 7 7 8 7 6 9 7 4 10 6 8 8 9 5 6 4 8
+Calculate the mean, median, mode and standard deviation.
+Solution:
+⦁	Mean: 
+Mean = (Σ xi ) / n
+
+xi = Each value in the data set
+n = Total number of values in the data set
+
+Σ of xi = 6+7+5+7+7+8+7+6+9+7+4+10+6+8+8+9+5+6+4+8     = 6.85
+				20
+The Mean of the given data is 6.85
+⦁	Median:
+The Median is the "middle" of a sorted list of numbers
+Slno	Data
+1	4
+2	4
+3	5
+4	5
+5	6
+6	6
+7	6
+8	6
+9	7
+10	7
+11	7
+ 12	7
+13	7
+14	8
+15	8
+16	8
+17	8
+18	9
+19	9
+20	10
+Median of the given data set = Sum of middle values / 2
+=( 7 + 7 ) / 2 = 6.5
+
+⦁	Mode:
+Mode of the data is the most repeated value in the data set.
+Hence, Mode of the given data set = 7 (most repeated value)
+
+⦁	Standard Deviation:
+ 
+Where :
+
+SD = Standard Deviation
+	   = each value in the data set
+	  = Mean is the data set
+	 n = number of values in the data set
+
+  
+	
+  
+	
+  -
+	 
+ 
+
+4	6.85	2.85	8.1225
+4	6.85	2.85	8.1225
+5	6.85	1.85	3.4225
+5	6.85	1.85	3.4225
+6	6.85	0.85	0.7225
+6	6.85	0.85	0.7225
+6	6.85	0.85	0.7225
+6	6.85	0.85	0.7225
+7	6.85	-0.15	0.0225
+7	6.85	-0.15	0.0225
+7	6.85	-0.15	0.0225
+7	6.85	-0.15	0.0225
+7	6.85	-0.15	0.0225
+8	6.85	-1.15	1.3225
+8	6.85	-1.15	1.3225
+8	6.85	-1.15	1.3225
+8	6.85	-1.15	1.3225
+9	6.85	-2.15	4.6225
+9	6.85	-2.15	4.6225
+10	6.85	-3.15	9.9225
+ 	 	 
+	50.55
+
+ 
+ Standard Deviation = 50.55 /20 = √2.5275 = 1.5898
+
+
+Problem Statement 2 :
+The number of calls from motorists per day for roadside service was recorded for a particular month:
+28, 122, 217, 130, 120, 86, 80, 90, 140, 120, 70, 40, 145, 113, 90, 68, 174, 194, 170, 100, 75, 104, 97, 75, 123, 100, 75, 104, 97, 75, 123, 100, 89, 120, 109
+Calculate the mean, median, mode and standard deviation
+Solution:
+⦁	Mean: 
+Mean = (Σ xi ) / n
+
+xi = Each value in the data set
+n = Total number of values in the data set
+
+∑xi = 3763 
+n = 35
+ 3763 / 35	= 107. 51
+⦁	Median:
+
+{(n + 1) ÷ 2}th element
+
+n = 35
+
+ n+1 = 35+1 = 36
+ {(n + 1) ÷ 2}th element = 36/ 2 = 18 = 100 from the below table
+
+Sl. No.	 
+ 
+
+1	28
+2	40
+3	68
+4	70
+5	75
+6	75
+7	75
+8	75
+9	80
+10	86
+11	89
+12	90
+13	90
+14	97
+15	97
+16	100
+17	100
+18	100
+19	104
+20	104
+21	109
+22	113
+23	120
+24	120
+25	120
+26	122
+27	123
+28	123
+29	130
+30	140
+31	145
+32	170
+33	174
+34	194
+35	217
+
+ 
+
+⦁	Mode:
+
+Mode of the data is the most repeated value in the data set.
+ Mode of the given data set = 75 (most repeated value)
+⦁	Standard Deviation:
+ 
+Where :
+
+SD = Standard Deviation
+	   = each value in the data set
+	  = Mean is the data set
+	 n = number of values in the data set
+Sl. No.	 
+ 
+	 
+ 
+	  
+-
+	 
+ 
+
+1	28	100	-72	5184
+2	40	100	-60	3600
+3	68	100	-32	1024
+4	70	100	-30	900
+5	75	100	-25	625
+6	75	100	-25	625
+7	75	100	-25	625
+8	75	100	-25	625
+9	80	100	-20	400
+10	86	100	-14	196
+11	89	100	-11	121
+12	90	100	-10	100
+13	90	100	-10	100
+14	97	100	-3	9
+15	97	100	-3	9
+16	100	100	0	0
+17	100	100	0	0
+18	100	100	0	0
+19	104	100	4	16
+20	104	100	4	16
+21	109	100	9	81
+22	113	100	13	169
+23	120	100	20	400
+24	120	100	20	400
+25	120	100	20	400
+26	122	100	22	484
+27	123	100	23	529
+28	123	100	23	529
+29	130	100	30	900
+30	140	100	40	1600
+31	145	100	45	2025
+32	170	100	70	4900
+33	174	100	74	5476
+34	194	100	94	8836
+35	217	100	117	13689
+ 	 	 	 
+ 
+	54593
+
+ Standard Deviation = 54593 /35 = √1559.8  = 39.4943
+
+
+Problem Statement 3:
+The number of times I go to the gym in weekdays, are given below along with its associated probability:
+x = 0, 1, 2, 3, 4, 5
+f(x) = 0.09, 0.15, 0.40, 0.25, 0.10, 0.01
+Calculate the mean no. of workouts in a week. Also evaluate the variance involved in it.
+Solution:
+Expected Mean of the Work outs:
+Let us call x as No. of Work outs in a week
+P(x)  is given as -  f(x) = 0.09, 0.15, 0.40, 0.25, 0.10, 0.01
+Calculation of Expected mean number of workouts in a week = Weighted average of the workouts and the probability.
+i.e., Expected mean of work outs (E) = E(x) :
+x	Probability f(x)	Weighted sum of probability
+0	0.09	0.00
+1	0.15	0.15
+2	0.40	0.80
+3	0.25	0.75
+4	0.10	0.40
+5	0.01	0.05
+Mean work out E(x)	2.15
+
+Variance:
+x	Probability f(x)	Weighted sum of probability	x-	x	xp(x)
+0	0.09	0.00	-2.15	4.6225	0.416025
+1	0.15	0.15	-1.15	1.3225	0.198375
+2	0.40	0.80	-0.15	0.0225	0.009
+3	0.25	0.75	0.85	0.7225	0.180625
+4	0.10	0.40	1.85	3.4225	0.34225
+5	0.01	0.05	2.85	8.1225	0.081225
+Mean work out	2.15	 	 	1.2275
+
+Variance value
+ 
+ 
+ 
+ 	1.10792599
+
+
+
+
+
+
+
+
+
